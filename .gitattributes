@@ -1,0 +1,8 @@
+* text=auto eol=lf
+src/*.astro linguist-detectable  
+*.png binary
+public/**/*.html linguist-vendored
+src/**/*.astro linguist-detectable
+
+dist/* linguist-vendored
+# eof 55806132
