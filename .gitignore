@@ -1,0 +1,6 @@
+.env
+yarn-error.log*
+*.tgz
+*.log
+node_modules/
+.cache/
